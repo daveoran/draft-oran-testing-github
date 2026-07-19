@@ -4,7 +4,7 @@ abbrev: "GTD"
 category: info
 
 docname: draft-github-tessting-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
+submissiontype: IRTF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
@@ -26,7 +26,7 @@ venue:
 author:
  -
     fullname: "Dave Oran"
-    organization: Your Organization Here
+    organization: "Network Systems Rsearch & Design"
     email: "daveoran@orandom.net"
 
 normative:
