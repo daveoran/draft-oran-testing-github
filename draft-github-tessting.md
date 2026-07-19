@@ -10,14 +10,14 @@ date:
 consensus: true
 v: 3
 # area: AREA
-# workgroup: WG Working Group
+# workgroup: ICNRG
 keyword:
  - next generation
  - unicorn
  - AI-native
 venue:
 #  group: WG
-#  type: Working Group
+#  type: Research Group
 #  mail: WG@example.com
 #  arch: https://example.com/WG
   github: "daveoran/draft-oran-testing-github"
@@ -37,14 +37,13 @@ informative:
 
 --- abstract
 
-TODO Abstract
+This is a placeholder abstract
 
 
 --- middle
 
 # Introduction
-
-TODO Introduction
+Blah Blah Blah
 
 
 # Conventions and Definitions
