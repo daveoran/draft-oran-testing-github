@@ -1,6 +1,6 @@
 ---
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "OranGithub Testing"
+abbrev: "GTD"
 category: info
 
 docname: draft-github-tessting-latest
